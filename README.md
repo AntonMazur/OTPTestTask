@@ -3,7 +3,7 @@
 1. Clone the repository:
   Use `git clone <this_repository_url>`
 2. Open the project folder.
-3. Launch file with .xcodeproj extenstion.
+3. Launch file with `.xcodeproj` extenstion.
 4. Build and run:
   Select simulator to run in Xcode and press CMD + R
 
